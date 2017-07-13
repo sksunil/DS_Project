@@ -7,7 +7,7 @@ public class sol {
 	public static void main(String[] args) {
 		
 		int choice;
-		Main obj = new Main("test.csv");
+		Main object = new Main("test.csv");
 		Scanner scan = new Scanner(System.in);
 		
 		do
@@ -25,27 +25,27 @@ public class sol {
 			switch(choice)
 			{
 			case 1:
-					obj.sale();
+				object.sale();
 					break;
 			case 2:
-					obj.insertQty();
+				object.insertQty();
 					break;
 			case 3:
-					obj.insertP();
+				object.insertP();
 					break;
 			case 4:
-					obj.display();
+				object.display();
 					break;
 			case 5:
-					obj.displayAll();
+				object.displayAll();
 					break;
 			case 6:
-					obj.addCustomer();
+				object.addCustomer();
 					break;
 			case 7:
-					obj.updateFile();
+				object.updateFile();
 					//obj.updateLog();
-					obj.updateCustomerFile();
+				object.updateCustomerFile();
 					break;
 			default:
 					System.out.println("*** Incorrect Input ***");
