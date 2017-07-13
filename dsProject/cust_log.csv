@@ -1,0 +1,50 @@
+
+0,Lenovo->1,Dell->1,Total Bill = 205 on Sat Nov 19 02:01:58 IST 2016
+
+
+0,Lenovo->2,Dell->1,Total Bill = 310 on Sat Nov 19 02:07:01 IST 2016
+
+0,Dell->1,Total Bill = 100 on Sat Nov 19 02:08:23 IST 2016
+
+0,Dell->1,Total Bill = 200 on Sat Nov 19 02:09:01 IST 2016
+
+0,Dell->1,Total Bill = 100 on Sat Nov 19 02:21:29 IST 2016
+
+0,Dell->1,Total Bill = 100 on Sat Nov 19 13:10:38 IST 2016
+
+0,Dell->1,Total Bill = 100 on Sat Nov 19 13:12:26 IST 2016
+
+1,Lenovo->1,Total Bill = 105 on Sat Nov 19 13:22:40 IST 2016
+
+0,Lenovo_Laptop->1,Dell_Laptop->1,Total Bill = 85000 on Sun Nov 20 01:43:28 IST 2016
+
+2,Apple_Mouse->3,Total Bill = 92500 on Sun Nov 20 01:44:00 IST 2016
+
+0,Dell_Laptop->1,Total Bill = 132500 on Sun Nov 20 01:44:21 IST 2016
+
+0,Dell_Laptop->1,Total Bill = 40000 on Sun Nov 20 14:10:07 IST 2016
+
+2,Apple_Mouse->2,Logitech_Mouse->10,Total Bill = 12500 on Sun Nov 20 14:13:16 IST 2016
+
+3,Apple_Laptop->4,Lenovo_Laptop->3,Total Bill = 375000 on Sun Nov 20 14:18:54 IST 2016
+
+3,Lenovo_Laptop->3,Total Bill = 135000 on Sun Nov 20 14:21:12 IST 2016
+
+3,Dell_Laptop->5,Total Bill = 200000 on Sun Nov 20 14:22:09 IST 2016
+
+
+1,Asus_Laptop->5,Samsung_Laptop->3,Total Bill = 342000 on Sun Nov 20 15:58:11 IST 2016
+
+3,Asus_Laptop->5,Total Bill = 210000 on Sun Nov 20 16:02:40 IST 2016
+
+1,AlienWare_Keyboard->3,Total Bill = 10500 on Sun Nov 20 18:06:04 IST 2016
+
+1,mirror_cube->20,Total Bill = 2400 on Sun Nov 20 18:09:42 IST 2016
+
+2,Total Bill = 0 on Sun Nov 20 18:10:19 IST 2016
+
+1,mirror_cube->79,Total Bill = 9480 on Sun Nov 20 18:11:02 IST 2016
+
+1,Lenovo_Laptop->3,Dell_Laptop->1,Hp_Laptop->4,Total Bill = 359000 on Thu Apr 20 00:36:22 IST 2017
+
+1,Dell_Laptop->3,MSI_Laptop->1,Total Bill = 165000 on Thu Jul 13 22:54:45 IST 2017
